@@ -71,10 +71,7 @@ function App() {
           </li>
         </ul>
 		</div>
-					  
-
-					
-				</form>
+			   </form>
 			</div>
 		</div>
 	</div>
